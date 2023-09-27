@@ -1,0 +1,353 @@
+File Manifest for ICPSR 36095
+
+Kane, Thomas, Heather Hill, and Douglas Staiger. National Center for
+Teacher Effectiveness Main Study. ICPSR36095-v4. Ann Arbor, MI: Inter-
+university Consortium for Political and Social Research [distributor],
+2022-06-16. http://doi.org/10.3886/ICPSR36095.v4
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36095-descriptioncitation.pdf       -       -         -       2022-06-16  -
+
+    36095-related_literature.txt        -       -         -       daily       -
+
+    36095-manifest.txt                  -       -         -       daily       -
+
+    36095-Questionnaire.pdf             -       -         -       2016-08-08  4ffa4163fdbb20d05131698e75d72b46
+
+    36095-Report_appendix.pdf           -       -         -       2016-08-08  0bf136d9cb477bb34ed3a0120539d6de
+
+
+DS0001 Class Observations
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36095-0001-Codebook.pdf             -       -         -       2016-08-08  30baf6ae2ec927328eb85d463e7ba147
+
+    36095-0001-Data.dta                 -       6,206     24      2016-08-08  a93dd2e10ef1fd829b14d0a8431a9982
+
+    36095-0001-Data.rda                 -       6,206     24      2016-08-08  7fdd54a322864ca4805eaf462f8d6311
+
+    36095-0001-Data.sav                 -       6,206     24      2016-08-08  ea79fdf34fd9be0db8a690fe9c3aaefb
+
+    36095-0001-Data.stc                 -       6,206     24      2016-08-08  138856ab8bd08ad2448b8420212ba31a
+
+    36095-0001-Data.tsv                 -       6,206     24      2016-08-08  e4e930f74fd53b20830771a7a7de58d8
+
+    36095-0001-Data.txt                 65      6,206     24      2016-08-08  867a371659af6827f1778c881bad6db6
+
+    36095-0001-Documentation.pdf        -       -         -       2016-08-08  7c0043df2d49457781049a5e4dabbef9
+
+    36095-0001-Setup.dct                -       -         -       2016-02-10  8437a0f5dfcbd68c2589b29e01d1fbc9
+
+    36095-0001-Setup.do                 -       -         -       2016-02-10  b3e5fb198bfd9c22607fc5b5af3df60f
+
+    36095-0001-Setup.sas                -       -         -       2016-02-10  5698f912ca9063e1234204a3b83eef4c
+
+    36095-0001-Setup.sps                -       -         -       2016-02-10  2fd51c8440b76a3963876a8789707480
+
+    36095-0001-Supplemental_syntax.do   -       -         -       2016-02-10  b37538a9f06a841956fe51b3d6dd1e9b
+
+    36095-0001-Supplemental_syntax.sas  -       -         -       2016-02-10  278ed636bde8eb81b691dd7cfaa4c384
+
+
+DS0002 Mathematical Quality of Instruction
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36095-0002-Codebook.pdf             -       -         -       2016-08-08  c595c907f158a0b80b1dd5a995ae7481
+
+    36095-0002-Data.dta                 -       28,850    66      2016-08-08  5111258613ace905a27cac74faf9049e
+
+    36095-0002-Data.rda                 -       28,850    66      2016-08-08  1286edaff1eafaa77b5687453b7f55bd
+
+    36095-0002-Data.sav                 -       28,850    66      2016-08-08  31615b7b805103b24b783a70213c0e96
+
+    36095-0002-Data.stc                 -       28,850    66      2016-08-08  ce61086b355513ae261ca74f51954158
+
+    36095-0002-Data.tsv                 -       28,850    66      2016-08-08  b640af564f4e8c6cee5d9cca847c7308
+
+    36095-0002-Data.txt                 196     28,850    66      2016-08-08  4a7a15cc3a0771ea0c71348ae811d619
+
+    36095-0002-Documentation.xlsx       -       -         -       2016-08-08  dc16b509b6fc2d8d0aec6dc593cad41a
+
+    36095-0002-Program.do               -       -         -       2016-08-08  a23d357fed27e3cf4bd6d567d9adfdd1
+
+    36095-0002-Setup.dct                -       -         -       2016-08-08  fb967eb7ce0a7b1c85aa6a6ffd9a5a62
+
+    36095-0002-Setup.do                 -       -         -       2016-08-08  c99840c56ebd5d5754b38518e2a8a46a
+
+    36095-0002-Setup.sas                -       -         -       2016-08-08  5d9de950fb383104c973e9302cf68992
+
+    36095-0002-Setup.sps                -       -         -       2016-08-08  9ed9eca748b673db0975511751521971
+
+    36095-0002-Supplemental_syntax.do   -       -         -       2016-08-08  9f16d0944d4f3811f404bfeefdc79863
+
+    36095-0002-Supplemental_syntax.sas  -       -         -       2016-08-08  e67aca19a07459400d9066405a7ee2fb
+
+
+DS0003 Student Questionnaire
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36095-0003-Codebook.pdf             -       -         -       2016-08-08  e7acd2b01c1e8d48147ad56c4f6740f1
+
+    36095-0003-Data.dta                 -       12,108    81      2016-08-08  84d1c01e876d69186582033c97e28e18
+
+    36095-0003-Data.rda                 -       12,108    81      2016-08-08  514808972e45b5f045514490230daf7f
+
+    36095-0003-Data.sav                 -       12,108    81      2016-08-08  e21234af4549f52082e0e3657f8f25c5
+
+    36095-0003-Data.stc                 -       12,108    81      2016-08-08  8469a2f64622df0413a2feb21d0402cf
+
+    36095-0003-Data.tsv                 -       12,108    81      2016-08-08  c9773abd5d8aef798c75014a65381bc9
+
+    36095-0003-Data.txt                 246     12,108    81      2016-08-08  c63cc64479ba0ef5d7f8c903fe8a4552
+
+    36095-0003-Documentation.xlsx       -       -         -       2016-08-08  068a1063750bf60e4290c89193aadf62
+
+    36095-0003-Setup.dct                -       -         -       2016-08-08  dbb35d73dcfebc4a35832cf7f219f175
+
+    36095-0003-Setup.do                 -       -         -       2016-08-08  e8f688e2d3f1b712cacdb7f0275bfc6e
+
+    36095-0003-Setup.sas                -       -         -       2016-08-08  dab6365f2671a6a63ef0e1148b69ace5
+
+    36095-0003-Setup.sps                -       -         -       2016-08-08  d20a8efeae734035cd03e8255b2045de
+
+    36095-0003-Supplemental_syntax.do   -       -         -       2016-08-08  d6358e22d0335a2dba1e549e5b9a4491
+
+    36095-0003-Supplemental_syntax.sas  -       -         -       2016-08-08  04e73c775d56bda0d28e3c7fd667730d
+
+
+DS0004 Value Added Scores
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36095-0004-Codebook.pdf             -       -         -       2016-08-08  6725266f54cca2ce9ce56c26fc4432e7
+
+    36095-0004-Data.dta                 -       314       52      2016-08-08  32ae1e0dadd284f95ffc516d5085ce1f
+
+    36095-0004-Data.rda                 -       314       52      2016-08-08  c7d55f6a61001005cc21218ee71c407b
+
+    36095-0004-Data.sav                 -       314       52      2016-08-08  91ec86c9a7339cb9a9f4ccc12c93bc63
+
+    36095-0004-Data.stc                 -       314       52      2016-08-08  9a83067bc559e243fb0b8e012b3415e1
+
+    36095-0004-Data.tsv                 -       314       52      2016-08-08  0f68bf9ae5aa636940539060d8251bdd
+
+    36095-0004-Data.txt                 526     314       52      2016-08-08  4428b9f9964776c5cbe6c6e5a70f915f
+
+    36095-0004-Documentation.pdf        -       -         -       2016-08-08  5674eb986e0909c738c9970c8cef7b0f
+
+    36095-0004-Program.do               -       -         -       2016-08-08  007f39e117d9dd1c1eb4f3492f95b983
+
+    36095-0004-Setup.dct                -       -         -       2016-08-08  691df282a34d8ec292472fcb5dc7db15
+
+    36095-0004-Setup.do                 -       -         -       2016-08-08  6109e13e70c8c644632fa44e25bb7112
+
+    36095-0004-Setup.sas                -       -         -       2016-08-08  6c0f80784ea686e7418dab4dcaebb2b9
+
+    36095-0004-Setup.sps                -       -         -       2016-08-08  c54a152f8f54a8f6ceb6aa40ac8799f7
+
+
+DS0005 Student Administrative Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36095-0005-Codebook.pdf             -       -         -       2022-06-16  fc9a0e49b1a6897f7555721c82d497b2
+
+    36095-0005-Data.dta                 -       12,661    87      2022-06-16  7481c3b1c6d31c1909368fa02aaada24
+
+    36095-0005-Data.rda                 -       12,661    87      2022-06-16  992dae17c058d557d2fc4001becff4ce
+
+    36095-0005-Data.sav                 -       12,661    87      2022-06-16  7c1559ec97f6cf35024ae506028e5b61
+
+    36095-0005-Data.stc                 -       12,661    87      2022-06-16  430fa5b70ca96589dbafcbceb0588cf9
+
+    36095-0005-Data.tsv                 -       12,661    87      2022-06-16  0935ef6dd3f753e42971b75f8d524ab1
+
+    36095-0005-Data.txt                 802     12,661    87      2022-06-16  d810722995dbd019b4c8f33e7a5a9d6e
+
+    36095-0005-Setup.dct                -       -         -       2022-06-16  646973453713c8af5a21cbc57b78b2f0
+
+    36095-0005-Setup.do                 -       -         -       2022-06-16  a0ba4cc0423c22e9beed7b402c315718
+
+    36095-0005-Setup.sas                -       -         -       2022-06-16  f24842087423801defbb82185812416f
+
+    36095-0005-Setup.sps                -       -         -       2022-06-16  94204fcc404dc0ad49e3767d4227372b
+
+
+DS0006 Teacher Background Questionnaire
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36095-0006-Codebook.pdf             -       -         -       2016-08-08  4d706dc14d644047299c1221d1723580
+
+    36095-0006-Data.dta                 -       313       26      2016-08-08  bcaf78de231dc1d3970bc4d616a7125b
+
+    36095-0006-Data.rda                 -       313       26      2016-08-08  032a86b991f31f6311ad6bd4d553cab7
+
+    36095-0006-Data.sav                 -       313       26      2016-08-08  bb81e95d8f692572bcd9b7b93ebcea09
+
+    36095-0006-Data.stc                 -       313       26      2016-08-08  8afa186bbcdecedfa8aca15b1e7d39e6
+
+    36095-0006-Data.tsv                 -       313       26      2016-08-08  61e9c7f71f52c417a395212c0bb4abaf
+
+    36095-0006-Data.txt                 82      313       26      2016-08-08  b6477d6db9fb8cecdbd041c0d1755e15
+
+    36095-0006-Setup.dct                -       -         -       2016-08-08  122fad8ae631cb4f7d8232a5d086984e
+
+    36095-0006-Setup.do                 -       -         -       2016-08-08  fdc744996c388d96acbcd9156edfa395
+
+    36095-0006-Setup.sas                -       -         -       2016-08-08  76319a528a55829bf3d34e03eacef728
+
+    36095-0006-Setup.sps                -       -         -       2016-08-08  92fc4b951c9889ae3dafe60852fa15b7
+
+    36095-0006-Supplemental_syntax.do   -       -         -       2016-08-08  b8fbcbac1e7976032b71137a052b14cc
+
+    36095-0006-Supplemental_syntax.sas  -       -         -       2016-08-08  e61b91892d8c33626101aeff76ad7290
+
+
+DS0007 Teacher Fall Questionnaire
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36095-0007-Codebook.pdf             -       -         -       2016-08-08  824ed5d06250e11728f2fa9a7183cff0
+
+    36095-0007-Data.dta                 -       642       307     2016-08-08  7a0c6a7afb52b2330a62c4e8a67cf385
+
+    36095-0007-Data.rda                 -       642       307     2016-08-08  c9fbe7f20f9120779e016d56019b82b8
+
+    36095-0007-Data.sav                 -       642       307     2016-08-08  7058b60ac44f33d67c6b9d8a07faeac6
+
+    36095-0007-Data.stc                 -       642       307     2016-08-08  e901ccb1efc2238d01ec74565d2b003e
+
+    36095-0007-Data.tsv                 -       642       307     2016-08-08  5a824c85ff2458b7459b1d796d879268
+
+    36095-0007-Data.txt                 491     642       307     2016-08-08  9aed763505f681e58a31a127cb31a9b4
+
+    36095-0007-Documentation.xlsx       -       -         -       2016-08-08  01c68be86ff601945ffcd7aa1bdaa1b4
+
+    36095-0007-Program.do               -       -         -       2016-08-08  e4cb161806c767526041195d13f36942
+
+    36095-0007-Setup.dct                -       -         -       2016-08-08  8b33f6677ec3369a72ea8e4202f86e98
+
+    36095-0007-Setup.do                 -       -         -       2016-08-08  41dbcbe710eaaefe9f79371c22a5f484
+
+    36095-0007-Setup.sas                -       -         -       2016-08-08  0953dc47c1a19c6540b9ac11fca50ede
+
+    36095-0007-Setup.sps                -       -         -       2016-08-08  2352c5942e61db589ea7619fe02d3430
+
+
+DS0008 Teacher Spring Questionnaire
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36095-0008-Codebook.pdf             -       -         -       2016-08-08  a355568729710e1b0a5054307a72d9dc
+
+    36095-0008-Data.dta                 -       579       308     2016-08-08  14c674706eacd79f44e628c481d0dc0e
+
+    36095-0008-Data.rda                 -       579       308     2016-08-08  25c1b743ab279322f90326cf43aef633
+
+    36095-0008-Data.sav                 -       579       308     2016-08-08  342789a92e510b453a542786a095309b
+
+    36095-0008-Data.stc                 -       579       308     2016-08-08  aa8a5ae0eefe6fd5adc8e8d8e29bd923
+
+    36095-0008-Data.tsv                 -       579       308     2016-08-08  49abb32aa5878cd30e271bfedda3ffb8
+
+    36095-0008-Data.txt                 784     579       308     2016-08-08  946263924eb1bdea2bbe6ad3709b653f
+
+    36095-0008-Documentation.xlsx       -       -         -       2016-08-08  e1fbc9ba6ce42be56a1a334bad36007f
+
+    36095-0008-Program.do               -       -         -       2016-08-08  cc6b15b0069b6e946f87729b9f785549
+
+    36095-0008-Setup.dct                -       -         -       2016-08-08  c3f39d43f9eca90a2d79fee04eb856b6
+
+    36095-0008-Setup.do                 -       -         -       2016-08-08  d35687249f5ba3524a03329c3293c773
+
+    36095-0008-Setup.sas                -       -         -       2016-08-08  fdbd467c1ce80fe80335fc1191d27e1b
+
+    36095-0008-Setup.sps                -       -         -       2016-08-08  86ab95adb8b894fcb523c9567cf5f698
+
+
+DS0009 Student Test Responses
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36095-0009-Codebook.pdf             -       -         -       2016-08-08  bfec34f6e890a8e5b297f40eeb7e5b1a
+
+    36095-0009-Data.dta                 -       22,982    104     2016-08-08  f5ff081e551f9e3c4ab9c807fd1b00ac
+
+    36095-0009-Data.rda                 -       22,982    104     2016-08-08  7a33f9910641978550c166efabc4c8d1
+
+    36095-0009-Data.sav                 -       22,982    104     2016-08-08  e9126712043e34a181143c789e17d443
+
+    36095-0009-Data.stc                 -       22,982    104     2016-08-08  aa97f01f59f87d733b455cff68db669e
+
+    36095-0009-Data.tsv                 -       22,982    104     2016-08-08  44efca215cd8310af78077dacd034277
+
+    36095-0009-Data.txt                 224     22,982    104     2016-08-08  3439d224ecb09b6c54c90a2912654bf3
+
+    36095-0009-Documentation.pdf        -       -         -       2016-08-08  32874d7807897517ae0396e8c2d83fb9
+
+    36095-0009-Setup.dct                -       -         -       2016-08-08  b28590729c5664c1d4f69f023917cb29
+
+    36095-0009-Setup.do                 -       -         -       2016-08-08  437a71dfb0151f34156e4e2877ae56a5
+
+    36095-0009-Setup.sas                -       -         -       2016-08-08  8502cc8132d45f086e83cc383a7501b6
+
+    36095-0009-Setup.sps                -       -         -       2016-08-08  1c1b9e39ea36ebf3cbef92fb64a88924
+
+
+DS0010 Student Random Assignment Roster
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36095-0010-Codebook.pdf             -       -         -       2016-08-08  f31a6ac58e5772f03894ef299b6003de
+
+    36095-0010-Data.dta                 -       1,612     15      2016-08-08  9a274b13da62e092fe107b9ed7a0bda1
+
+    36095-0010-Data.rda                 -       1,612     15      2016-08-08  5e680892ad86f952fba03cdf0f8e650e
+
+    36095-0010-Data.sav                 -       1,612     15      2016-08-08  d98d0ee3a9141d8c4498abf9937ced58
+
+    36095-0010-Data.stc                 -       1,612     15      2016-08-08  e10f58b1dbaea6d3404fc872b1f03ce2
+
+    36095-0010-Data.tsv                 -       1,612     15      2016-08-08  c569ba06b1b9d7727e5c34ea7b1d4324
+
+    36095-0010-Data.txt                 58      1,612     15      2016-08-08  bea0bbe097efe2244799475f9b3c06eb
+
+    36095-0010-Setup.dct                -       -         -       2016-08-08  16bef5dfcfa51da412806482dfde117a
+
+    36095-0010-Setup.do                 -       -         -       2016-08-08  bfe5304cb1f1bcf706336f54e5068932
+
+    36095-0010-Setup.sas                -       -         -       2016-08-08  e1fe27b62df75e6198e8ca17cf8df51a
+
+    36095-0010-Setup.sps                -       -         -       2016-08-08  4125c892beac4124e9b20e19c0061806
+
+
+Version History
+
+2022-06-16 Dataset 5 has been updated with additional observations that
+were left out of the original data file.  2016-08-08 Dataset 5 has been
+updated to exclude the administrative data for students from District 11
+(n=2,327). In addition, the original codebook has been released as separate
+codebooks for each respective dataset.  2016-02-10 Additional
+documentation, a PI-supplied technical report, has been added to the
+collection.

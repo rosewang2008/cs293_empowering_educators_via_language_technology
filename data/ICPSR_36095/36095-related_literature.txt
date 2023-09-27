@@ -1,0 +1,49 @@
+Bibliography
+National Center for Teacher Effectiveness Main Study
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 36095. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Alrajeh, Tahani Salman; Shindel, Beth Winfrey, "Student engagement and
+math teachers support." Journal on Mathematics Education. 2020, 11, (2),
+167 - 180. DOI: 10.22342/jme.11.2.10282.167-180
+Abstract: https://eric.ed.gov/?id=EJ1252000
+
+2. Auletto, Amy; Stein, Kristy Cooper, "Observable mathematical teaching
+expertise among upper elementary teachers: Connections to student
+experiences and professional learning." Journal of Mathematics Teacher
+Education. 2020, 23, 433 - 461. DOI: 10.1007/s10857-019-09433-4
+Abstract: https://eric.ed.gov/?id=EJ1252000
+
+3. Braslow, David Arthur, "Identifying Patterns of Test Preparation, Score
+Gains, and Score Inflation in Test-based Accountability Systems."
+Dissertation, Harvard University, 2020.
+Abstract: https://eric.ed.gov/?id=EJ1252000
+
+4. Gallagher, Melissa A., "Mathematics Teacher Effectiveness: Profiles of
+Practice and Teacher Knowledge Predicting Student Growth." Dissertation,
+George Mason University, 2016.
+Abstract: https://eric.ed.gov/?id=EJ1252000
+
+5. Stephens, Christina, "The Role of Ethnic/Racial Classroom Dynamics in
+the Learning Environment and Mathematics Achievement." Thesis, University
+of Rhode Island, 2019.
+Abstract: https://eric.ed.gov/?id=EJ1252000
+
+6. Thayer, Andrew Jordan, "How Teacher Self-Efficacy and Mindset Influence
+Student Engagement and Math Performance." Dissertation, University of
+Minnesota, 2020.
+Abstract: https://eric.ed.gov/?id=EJ1252000
+
+7. van Dijk, Wilhelmina; Gage, Nicholas A.; Grasley-Boy, Nicolette, "The
+relation between classroom management and mathematics achievement: A
+multilevel structural equation model." Psychology in the Schools. 2019, 56,
+(7), 1173 - 1186. DOI: 10.1002/pits.22254
+Abstract: https://eric.ed.gov/?id=EJ1252000
